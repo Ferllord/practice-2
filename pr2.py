@@ -1,4 +1,6 @@
 def is_eq(a,b):
   return a==b
-
-print(is_eq(1,1))
+a = 1
+b = 1
+print(is_eq(a,b))
+print(is_eq(1,2))
